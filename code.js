@@ -13,7 +13,6 @@ background(255);
 
 for (var x=0; x < width; x++) {
 strokeWeight(2);
-//stroke(255, 0 , 10, 0.3);
 stroke(noiseVal*255);
 fill(28,46,167);
 ellipse(mouseX, mouseY, 40, 40);
