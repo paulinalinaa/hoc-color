@@ -7,7 +7,10 @@ authors-url:
 layout: project
 title: Vassily Kandinsky
 type: project
+
 ---
+
+
 
 # Vassily Kandinsky 
 ![](splash.png)￼
