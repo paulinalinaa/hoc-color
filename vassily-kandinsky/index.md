@@ -23,7 +23,7 @@ type: project
 ## First Presentation
 I have decided on the Artist Vassily Kandinsky who I was remembered in the excursion to the Bauhaus archive we have made. Before that he has interested me personally very much as well. Because no one else was interested to Vassily Kandinsky I have made the presentation all alone. 
 
-![biografie](media/14888827088632/biografie.png)￼
+![](assets/images/biografie.png)￼
 
 Vassily Kandinsky was a russian painter and is known and famous as one of the pioneers of the abstract painting and the abstract expressionism. 
 By his pictures and theoretical works he exerted a big influence on the development of the modern art. 
@@ -72,7 +72,7 @@ In the beginning **this book** was my basis, nevertheless, finally I have decide
 - According to the analysis we should formulate a set of rules and apply it in code.
  
 ## Analysis - Circles in a Circle 1923
-![circles-in-a-circle](media/14888827088632/circles-in-a-circle.png)￼
+![](assets/images/circles-in-a-circle.png)￼
 
 >###### Source: http://www.wassilykandinsky.net/work-247.php | adapted to image size
 
@@ -85,7 +85,7 @@ For example, the **format** plays an important role, because it influences the p
 *Primarily the picture exists out of circles, but which meanings had them for Vassily? In his view the circle had a cosmic meaning, it is the uncoloured quiet and the result of two always steadily working forces.*
 Therefore the circle does not know the forcible of the angle and the most central point is the most perfect quiet of the not anymore isolated point.
 
-![black-circle](media/14888827088632/black-circle.png)￼
+![](assets/images/black-circle.png)￼
 
 
 
@@ -94,7 +94,7 @@ This gigantic circle encourages us to concentrate us upon the internal interacti
 
 Kandinsky has spoken a lot of **tensions** in the picture. They could be formed from a direction, an angle or from the colour themselves. 
 
-![diagonal-lines](media/14888827088632/diagonal-lines.png)￼
+![](assets/images/diagonal-lines.png)￼
 
 
 
@@ -103,7 +103,7 @@ In this work he has used two sharp **diagonal lines**. From the bottom left to t
 The second **diagonal line** runs from the bottom right to the top left corner this loses tension by the touch of the basic form (edge) like the other one. This direction looks unharmonious and he chose a mixture from green and blue, it's a quiet colour. 
 Vassily generates by these both cutting diagonal lines a perspective and shifted the focus point through the crossroads into the circle, this is the gestalt law of space through colour.
 
-![circles-in-a-circle](media/14888827088632/circles-in-a-circle.png)￼
+![](assets/images/circles-in-a-circle.png)￼
 
 
 
@@ -131,11 +131,11 @@ within the circle
 
 ## Code
 
-![colour-kandinsky](media/14888827088632/colour-kandinsky.png)￼
+![](assets/images/colour-kandinsky.png)￼
 
 >###### Source: http://lokeshdhakar.com/projects/color-thief/ 
 
-![code](media/14888827088632/code.png)￼
+![](assets/images/code.png)￼
 
 Here is the [Link](https://github.com/paulinalinaa)
 
