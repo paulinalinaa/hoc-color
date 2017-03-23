@@ -1,13 +1,11 @@
-
 --- 
 authors: 
   - "Paulina Mrksic"
 authors-url: 
   - "https://github.com/paulinalinaa"
 layout: project
-title: Vassily Kandinsky
+title: "Vassily Kandinsky"
 type: project
-
 ---
 
 
