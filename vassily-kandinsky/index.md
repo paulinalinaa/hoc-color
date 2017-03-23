@@ -1,13 +1,16 @@
 
-- - - 
-authors:  | authors-url: | layout: | title: | type: |
---------- | ------------ | ------- | ------ | ---- |
-Paulina Mrksic | "https://github.com/paulinalinaa" | project | Vassily Kandinsky | project
- 
-- - -
+--- 
+authors: 
+  - "Paulina Mrksic"
+authors-url: 
+  - "https://github.com/paulinalinaa"
+layout: project
+title: Vassily Kandinsky
+type: project
+---
 
 # Vassily Kandinsky 
-![](assets/images/splash.png)￼
+![](splash.png)￼
 
 >###### Source: http://curiator.com/art/wassily-kandinsky/self-portrait-1 | cutout from original | adapted to image size
 
