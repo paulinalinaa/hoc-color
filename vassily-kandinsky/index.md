@@ -126,6 +126,7 @@ The single colours, be it those of the circles or the diagonal lines in the back
 3. big black outlined circle, in the middle of the picture 
 
 within the circle 
+
 4. 26 circles = 12 red (1 with inner circle), 6 blue, 3 yellow, 3 greens, 1 grey  
 5. overlapping = addition of both colours 
 6. 12 short and 15 long randomly distributed lines
