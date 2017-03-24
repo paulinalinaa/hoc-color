@@ -103,7 +103,7 @@ In this work he has used two sharp **diagonal lines**. From the bottom left to t
 The second **diagonal line** runs from the bottom right to the top left corner this loses tension by the touch of the basic form (edge) like the other one. This direction looks unharmonious and he chose a mixture from green and blue, it's a quiet colour. 
 Vassily generates by these both cutting diagonal lines a perspective and shifted the focus point through the crossroads into the circle, this is the gestalt law of space through colour.
 
-![](assets/images/circles-in-a-circle.png)￼
+![](assets/images/circles-and-lines.png)￼
 
 
 
