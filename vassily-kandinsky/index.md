@@ -136,8 +136,8 @@ within the circle
 ![](assets/images/colour-kandinsky.png)￼
 ###### Source: http://lokeshdhakar.com/projects/color-thief/ 
 
-![](assets/images/code.png)￼
 
+![](assets/images/code.png)￼
 Here is the [Link](https://github.com/paulinalinaa)
 
 
