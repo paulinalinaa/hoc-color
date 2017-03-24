@@ -74,7 +74,7 @@ In the beginning **this book** was my basis, nevertheless, finally I have decide
 ## Analysis - Circles in a Circle 1923
 ![](assets/images/circles-in-a-circle.png)￼
 
->###### Source: http://www.wassilykandinsky.net/work-247.php | adapted to image size
+###### Source: http://www.wassilykandinsky.net/work-247.php | adapted to image size
 
 *"The contents of a piece of art are the sum of his tensions."*
 
@@ -124,6 +124,7 @@ The single colours, be it those of the circles or the diagonal lines in the back
 1. Background yellow / white 
 2. two coloured diagonal lines
 3. big black outlined circle, in the middle of the picture 
+
 within the circle 
 4. 26 circles = 12 red (1 with inner circle), 6 blue, 3 yellow, 3 greens, 1 grey  
 5. overlapping = addition of both colours 
@@ -132,8 +133,7 @@ within the circle
 ## Code
 
 ![](assets/images/colour-kandinsky.png)￼
-
->###### Source: http://lokeshdhakar.com/projects/color-thief/ 
+###### Source: http://lokeshdhakar.com/projects/color-thief/ 
 
 ![](assets/images/code.png)￼
 
