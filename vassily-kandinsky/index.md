@@ -131,7 +131,7 @@ within the circle
 5. overlapping = addition of both colours 
 6. 12 short and 15 long randomly distributed lines
 
-## Code
+## Code Result
 
 ![](assets/images/colour-kandinsky.png)￼
 ###### Source: http://lokeshdhakar.com/projects/color-thief/ 
@@ -139,7 +139,7 @@ within the circle
 
 ![](assets/images/code.png)￼
 
-Here is the [Link](https://github.com/paulinalinaa)
+Here is the [Link](<script src="https://gist.github.com/paulinalinaa/0d57b03f04b118aba5634dedf7360082.js"></script>)
 
 
 - - -
