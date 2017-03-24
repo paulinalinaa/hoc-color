@@ -139,7 +139,7 @@ within the circle
 
 ![](assets/images/code.png)￼
 
-Here is the [Link](<script src="https://gist.github.com/paulinalinaa/0d57b03f04b118aba5634dedf7360082.js"></script>)
+Here is the [Link](https://gist.github.com/paulinalinaa/0d57b03f04b118aba5634dedf7360082.js)
 
 
 - - -
