@@ -20,7 +20,7 @@ type: project
 - We should decide either on a work (deeply) or on a series (broadly). 
 - For the presentation we should do a short summary of the elected person. 
 
-## First Presentation
+## Biography
 I have decided on the Artist Vassily Kandinsky who I was remembered in the excursion to the Bauhaus archive we have made. Before that he has interested me personally very much as well. Because no one else was interested to Vassily Kandinsky I have made the presentation all alone. 
 
 ![](assets/images/biografie.png)￼
@@ -49,12 +49,12 @@ In **1911** he and Franz Marc had founded *The blue rider* and organised interna
 
 During the **First World War** he lived in Russia where he had taught and organised other art exhibitions. 
 In **1921** he returned to Germany and started to taught at the Bauhaus school in Weimar. 
-Kandinsky published in **1926** his work *"point and line to plane"*. In it he propagates for an abstract *absolute* painting art. This work becomes an other important basis for the creative process within the abstract art. 
+Kandinsky published in **1926** his work *'point and line to plane'*. In it he propagates for an abstract *absolute* painting art. This work becomes an other important basis for the creative process within the abstract art. 
 His time ends there in **1933** with the closing of the school by the National Socialists. 
 
 After the Bauhaus period Kandinsky moves to France. There he lives and paints up to his death in **1944** in a Paris suburb. He had become a member of the Parisians artist's group Abstraction-Création. From the National Socialists Kandinskys pictures were devaluated, like from many other artists in this time, they had become „degenerated art“. Many of his pictures are exiled in **1937** from the German museums.
 
-**"point and line to plane"** 
+**'point and line to plane'** 
 In this varied work he describes the psychological effects of the colour and the resemblances between painting and music. This book had become a fundamental importance for the abstract painting. In the most important chapter „Forms and colour language“ he develops his theory that form can exist in contrast to colour independently. 
 That means that the form influences the colour substantially. 
  
