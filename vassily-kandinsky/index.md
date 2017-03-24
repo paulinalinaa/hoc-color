@@ -13,7 +13,7 @@ type: project
 # Vassily Kandinsky 
 ![](splash.png)￼
 
->###### Source: http://curiator.com/art/wassily-kandinsky/self-portrait-1 | cutout from original | adapted to image size
+###### Source: http://curiator.com/art/wassily-kandinsky/self-portrait-1 | cutout from original | adapted to image size
 
 ## Part 1 - Task 
 - In groups of two we should decide us for an artist / designer. 
